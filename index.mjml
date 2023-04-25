@@ -1,0 +1,208 @@
+<mjml>
+  <mj-head>
+
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+      
+      
+    </mj-style>
+
+    <mj-style inline="inline">
+        .header-links{
+            color: #FFFFFF;
+            font-weight: bold;
+        }
+
+        .list-styles{
+            text-decoration: underline;
+            text-decoration-color: #1155CC;
+        }
+
+
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body background-color="#FFFFFF">
+    <mj-section padding="0"> 
+        <mj-column>
+            <mj-image padding="0" src="http://127.0.0.1:5500/assets/header-banner.jpg"/>
+        </mj-column>
+    </mj-section> 
+
+    <mj-section padding="16px 0" background-color="#20428C"> 
+        <mj-column > 
+            <mj-navbar base-url="https://store.nba.com/" hamburger="hamburger" ico-color="#ffffff">
+            <mj-navbar-link padding="0 19px" href="/" color="#ffffff">SHOP BY TEAM</mj-navbar-link>
+            <mj-navbar-link padding="0 19px" href="/men" color="#ffffff">MEN</mj-navbar-link>
+            <mj-navbar-link padding="0 19px" href="/women" color="#ffffff">WOMEN</mj-navbar-link>
+            <mj-navbar-link padding="0 19px" href="/kids" color="#ffffff">KIDS</mj-navbar-link>
+            <mj-navbar-link padding="0 19px" href="/jerseys" color="#ffffff">JERSEYS</mj-navbar-link>
+            <mj-navbar-link padding="0 19px" href="/t-shirts" color="#ffffff">T-SHIRTS</mj-navbar-link>
+            <mj-navbar-link padding="0 19px" href="/sale" color="#ffffff">SALE</mj-navbar-link>
+            </mj-navbar>
+        </mj-column> 
+    </mj-section>
+
+    <mj-section padding="0"> 
+        <mj-column>
+            <mj-image padding="0" src="http://127.0.0.1:5500/assets/shipping-banner.jpg"/>
+        </mj-column> 
+    </mj-section> 
+
+    <mj-section padding="0"> 
+        <mj-column>
+            <mj-image padding="0" src="http://127.0.0.1:5500/assets/hero-image.jpg"/>
+        </mj-column> 
+    </mj-section> 
+
+    <mj-section padding="0"> 
+        <mj-column>
+            <mj-image padding="0" src="http://127.0.0.1:5500/assets/klarna-image.jpg"/>
+        </mj-column>
+    </mj-section> 
+
+    <mj-section padding="5px 0">
+        <mj-column> 
+            <mj-text padding="0" font-weight="bold" font-size="26px" align="center"> Inspired By Your Recent Browsing </mj-text>
+        </mj-column>
+    </mj-section> 
+
+    <mj-section>
+        <mj-column > 
+            <mj-image padding="0" src="http://127.0.0.1:5500/assets/merch1.jpg"/>
+            <mj-text font-size="14px"> Men's '47 Black Brooklyn Nets Crosstown Script Hitch Snapback Hat </mj-text>
+        </mj-column> 
+            
+        <mj-column> 
+            <mj-image padding="0" src="http://127.0.0.1:5500/assets/merch2.jpg"/>
+            <mj-text font-size="14px"> Men's Fanatics Branded Black Brooklyn Nets Whole New Game Team T-Shirt </mj-text>
+        </mj-column> 
+
+        <mj-column> 
+            <mj-image padding="0" src="http://127.0.0.1:5500/assets/merch3.jpg"/>
+            <mj-text font-size="14px"> Men's Black Brooklyn Nets #1 Dad T-Shirt </mj-text>
+        </mj-column> 
+    </mj-section>
+
+    <mj-section padding="0"> 
+        <mj-column> 
+            <mj-image padding="0" src="http://127.0.0.1:5500/assets/team-gif.gif"/>
+        </mj-column> 
+    </mj-section> 
+
+    <mj-section padding="0" background-color="#20428C"> 
+        <mj-column > 
+            <mj-text css-class="list-styles" padding="13px 0px 13px 10px" color="#FFFFFF"  font-size="24px">SHOP BY TEAM</mj-text> 
+            <mj-text css-class="list-styles" padding="13px 0px 13px 10px" color="#FFFFFF"  font-size="24px">MEN</mj-text>
+            <mj-text css-class="list-styles" padding="13px 0px 13px 10px" color="#FFFFFF"  font-size="24px">WOMEN</mj-text>
+            <mj-text css-class="list-styles" padding="13px 0px 13px 10px" color="#FFFFFF"  font-size="24px">KIDS</mj-text>
+            <mj-text css-class="list-styles" padding="13px 0px 13px 10px" color="#FFFFFF"  font-size="24px">JERSEYS</mj-text>
+            <mj-text css-class="list-styles" padding="13px 0px 13px 10px" color="#FFFFFF"  font-size="24px">T-SHIRTS</mj-text>
+            <mj-text css-class="list-styles" padding="13px 0px 13px 10px" color="#FFFFFF"  font-size="24px">SALE</mj-text>
+        </mj-column> 
+    </mj-section> 
+
+    <mj-section padding="10px 0" border-bottom= "3px solid black">  
+        <mj-group> 
+            <mj-column> 
+                    <mj-divider border-width="3px" border-style="solid" border-color="black" padding="0 0"/>
+
+                <mj-text font-weight="bold" font-size="25px" align="center"> CONNECT WITH US: </mj-text>
+                <mj-social font-size="25px" icon-size="60px" >
+                    <mj-social-element 
+                        name="facebook" 
+                        href="https://www.facebook.com/scalero.io/" 
+                        background-color="black"
+                        border-radius="27px"
+                        padding="0 10px">
+                    </mj-social-element>
+
+                    <mj-social-element 
+                        name="twitter" 
+                        href="https://twitter.com/scalero_io?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                        background-color="black"
+                        border-radius="27px"
+                        padding="0 10px">
+                    </mj-social-element>
+                    <mj-social-element 
+                        name="instagram" 
+                        href="https://www.linkedin.com/company/scalero"
+                        background-color="black"
+                        border-radius="27px"
+                        padding="0 10px">
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+
+        </mj-group> 
+    </mj-section> 
+
+    <mj-section> 
+        <mj-column>
+            <mj-text align="center"> 
+                Don't forget to visit NBAStore.com, WNBAStore.com, 2kleaguestore.nba.com, and GLeaguestore.com
+            </mj-text> 
+        </mj-column> 
+    </mj-section> 
+
+    <mj-section> 
+        <mj-column>
+            <mj-image src="http://127.0.0.1:5500/assets/footer-sponsors.jpg" width="120px" height="85px"/>
+
+            <mj-text align="center"> 
+                Don't miss a thing! Add email@eml.store.nba.com to your email address book!            
+            </mj-text>  
+
+             <mj-text align="center"> 
+                DISCLAIMER - Limited time offer. Exclusions, terms and conditions apply. Click here for details. Offer may be modified or terminated at any time without notice.
+            </mj-text>  
+                
+            <mj-text align="center"> 
+                *Personalized Picks are personal to you & may not be included in the offer/discount.
+            </mj-text>
+
+            <mj-text align="center"> 
+                This email was sent to: ()
+            </mj-text>    
+
+            <mj-text align="center"> 
+                Email Marketing <br>
+                8100 Nations Way <br>
+                Jacksonville, FL 32256 <br>
+                NBA.com Network Privacy Policy
+            </mj-text align="center">    
+
+            <mj-text align="center"> 
+                The NBA identifications are the intellectual property of the NBA and its teams.
+                © 2016 NBA Properties, Inc.
+            </mj-text>    
+
+            <mj-text align="center"> 
+                PRIVACY POLICY | CONTACT US | EMAIL PREFERENCES
+            </mj-text>    
+
+            <mj-text align="center"> 
+                To unsubscribe from marketing emails, click here.
+            </mj-text>    
+
+            <mj-text align="center"> 
+                If you experience problems with the above link, reply to this email with "unsubscribe" in the body to be automatically removed.
+            </mj-text>  
+
+            <mj-text align="center">
+                General replies to this email reach an inbox that is not monitored by a Customer Service agent. Please visit the Customer Service page to ensure your message reaches us.
+            </mj-text>
+        </mj-column> 
+    </mj-section> 
+
+    
+  </mj-body>
+
+
+
+
+
+</mjml>
