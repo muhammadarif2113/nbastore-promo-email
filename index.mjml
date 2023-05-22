@@ -28,7 +28,7 @@
   <mj-body background-color="#FFFFFF">
     <mj-section padding="0"> 
         <mj-column>
-            <mj-image padding="0" src="http://127.0.0.1:5500/assets/header-banner.jpg"/>
+            <mj-image padding="0" src="https://muhammadarif2113.github.io/nbastore-promo-email/assets/header-banner.jpg"/>
         </mj-column>
     </mj-section> 
 
@@ -48,19 +48,19 @@
 
     <mj-section padding="0"> 
         <mj-column>
-            <mj-image padding="0" src="http://127.0.0.1:5500/assets/shipping-banner.jpg"/>
+            <mj-image padding="0" src="https://muhammadarif2113.github.io/nbastore-promo-email/assets/shipping-banner.jpg"/>
         </mj-column> 
     </mj-section> 
 
     <mj-section padding="0"> 
         <mj-column>
-            <mj-image padding="0" src="http://127.0.0.1:5500/assets/hero-image.jpg"/>
+            <mj-image padding="0" src="https://muhammadarif2113.github.io/nbastore-promo-email/assets/hero-image.jpg"/>
         </mj-column> 
     </mj-section> 
 
     <mj-section padding="0"> 
         <mj-column>
-            <mj-image padding="0" src="http://127.0.0.1:5500/assets/klarna-image.jpg"/>
+            <mj-image padding="0" src="https://muhammadarif2113.github.io/nbastore-promo-email/assets/klarna-image.jpg"/>
         </mj-column>
     </mj-section> 
 
@@ -72,24 +72,24 @@
 
     <mj-section>
         <mj-column > 
-            <mj-image padding="0" src="http://127.0.0.1:5500/assets/merch1.jpg"/>
+            <mj-image padding="0" src="https://muhammadarif2113.github.io/nbastore-promo-email/assets/merch1.jpg"/>
             <mj-text font-size="14px"> Men's '47 Black Brooklyn Nets Crosstown Script Hitch Snapback Hat </mj-text>
         </mj-column> 
             
         <mj-column> 
-            <mj-image padding="0" src="http://127.0.0.1:5500/assets/merch2.jpg"/>
+            <mj-image padding="0" src="https://muhammadarif2113.github.io/nbastore-promo-email/assets/merch2.jpg"/>
             <mj-text font-size="14px"> Men's Fanatics Branded Black Brooklyn Nets Whole New Game Team T-Shirt </mj-text>
         </mj-column> 
 
         <mj-column> 
-            <mj-image padding="0" src="http://127.0.0.1:5500/assets/merch3.jpg"/>
+            <mj-image padding="0" src="https://muhammadarif2113.github.io/nbastore-promo-email/assets/merch3.jpg"/>
             <mj-text font-size="14px"> Men's Black Brooklyn Nets #1 Dad T-Shirt </mj-text>
         </mj-column> 
     </mj-section>
 
     <mj-section padding="0"> 
         <mj-column> 
-            <mj-image padding="0" src="http://127.0.0.1:5500/assets/team-gif.gif"/>
+            <mj-image padding="0" src="https://muhammadarif2113.github.io/nbastore-promo-email/assets/team-gif.gif"/>
         </mj-column> 
     </mj-section> 
 
@@ -150,7 +150,7 @@
 
     <mj-section> 
         <mj-column>
-            <mj-image src="http://127.0.0.1:5500/assets/footer-sponsors.jpg" width="120px" height="85px"/>
+            <mj-image src="https://muhammadarif2113.github.io/nbastore-promo-email/assets/footer-sponsors.jpg" width="120px" height="85px"/>
 
             <mj-text align="center"> 
                 Don't miss a thing! Add email@eml.store.nba.com to your email address book!            
